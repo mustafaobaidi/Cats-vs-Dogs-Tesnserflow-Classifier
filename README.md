@@ -3,4 +3,4 @@
 
 Influnced by Kaggle
 
-Data available by : https://www.tensorflow.org/tutorials/quickstart/beginner
+Data available at this link : https://www.kaggle.com/patrickb1912/cats-vs-dogs-cnn-classifier
